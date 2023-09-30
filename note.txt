@@ -1,0 +1,10 @@
+fonts
+    poppins 400 500 700
+    karma 400 700
+color
+        #F5C362
+        #309DC1
+bg-     #F9FAFC
+card-   #fff
+header- #06053A
+footer- #0166FF
